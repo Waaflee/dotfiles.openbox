@@ -12,3 +12,4 @@ Repo: openbox feh obkey lxappeararance gnome-music qt5ct breeze breeze-kde4 vlc 
 AUR: dmenu-ee-git openbox-arc-git arc-firefox-theme gtk-theme-arc-git paper-icon-theme-git oranchelo-icon-theme-git gnome-terminal-transparency transmission-csd
 
 
+![ScreenShot](https://raw.github.com/Waaflee/dotfiles.openbox/master/Captura%20de%20pantalla%20de%202017-01-23%2018-28-06.png)
