@@ -1,0 +1,2 @@
+graphics_toolkit ("gnuplot");
+clear;
