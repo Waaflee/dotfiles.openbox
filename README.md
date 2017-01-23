@@ -9,6 +9,6 @@ firefox startpage: moment https://addons.mozilla.org/en-US/firefox/addon/moment/
 
 Repo: openbox feh obkey lxappeararance gnome-music qt5ct breeze breeze-kde4 vlc firefox
 
-AUR: dmenu-ee-git openbox-arc-git arc-firefox-theme gtk-theme-arc-git paper-icon-theme-git oranchelo-icon-theme-git
+AUR: dmenu-ee-git openbox-arc-git arc-firefox-theme gtk-theme-arc-git paper-icon-theme-git oranchelo-icon-theme-git gnome-terminal-transparency
 
 
