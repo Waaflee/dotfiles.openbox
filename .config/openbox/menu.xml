@@ -375,7 +375,7 @@
   <separator label="Sistema" />
   <item label="Terminal">
     <action name="Execute">
-      <command>gnome-terminal</command>
+      <command>gnome-terminal --hide-menubar</command>
       <startupnotify>
         <enabled>yes</enabled>
       </startupnotify>
