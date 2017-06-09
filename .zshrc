@@ -97,3 +97,4 @@ alias purge='sudo pacman -Rns $(pacman -Qtdq)'
 alias wall='feh --randomize --bg-fill /media/Datos/AGUSTIN/Imágenes/Fondos/*'
 alias rm="rm -i"
 alias mv="mv -i"
+alias sync='cp -ru ~/pi/Posta/* ~/Documentos/Posta.sync/'
