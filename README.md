@@ -5,7 +5,7 @@ Dots for openbox session
 *   vlc theme: [MetroX](http://maverick07x.deviantart.com/art/VLC-MetroX-345256054) `||` [MinimalX](http://maverick07x.deviantart.com/art/VLC-MinimalX-385698882)
 *   firefox startpage: [moment](https://addons.mozilla.org/en-US/firefox/addon/moment/?src=search)
 
-Repo: openbox feh obkey lxappeararance gnome-music qt5ct breeze breeze-kde4 vlc firefox
+Repo: `openbox feh obkey lxappeararance gnome-music qt5ct breeze breeze-kde4 vlc firefox`
 
 AUR: `dmenu-ee-git openbox-arc-git arc-firefox-theme gtk-theme-arc-git paper-icon-theme-git oranchelo-icon-theme-git gnome-terminal-transparency transmission-csd`
 
