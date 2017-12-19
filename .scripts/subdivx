@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Abre firefox en subdivx y busca la peli/serie solicitada
+
+echo "Busco en subdivx y te lo muestro, despedite de tu cuenta lince [ENTER]:"
+
+read piratacontent
+
+firefox 
+"http://www.subdivx.com/index.php?q=$piratacontent&accion=5&masdesc=&subtitulos=1&realiza_b=1"&
+clear

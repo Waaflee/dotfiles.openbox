@@ -1,0 +1,26 @@
+#!/bin/bash
+for filename in ./*.mkv; do
+    subdl --lang='spa,eng' $filename
+done
+
+for filename in ./*.mp4; do
+    subdl --lang='spa,eng' $filename
+done
+
+for filename in ./*.avi; do
+    subdl --lang='spa,eng' $filename 
+done
+
+for filename in ./*.m4v; do
+    subdl --lang='spa,eng' $filename
+done
+
+for file in *.en.srt
+do
+  mv "$file" "${file/.en.srt/.srt}"
+done
+
+for file in *.es.srt
+do
+  mv "$file" "${file/.es.srt/.srt}"
+done
